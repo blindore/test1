@@ -12,8 +12,8 @@ public class HeapOOM {
         List<OOMObject> list = new ArrayList<OOMObject>();
         while(true){
             list.add(new OOMObject());
-            System.out.println("good");
-            
+            System.out.println("good");            
+            System.out.println("good");            
         }
     }
 
